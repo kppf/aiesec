@@ -8,14 +8,17 @@ nav ul{margin:0; padding:0; list-style:none;}
 #header nav ul li:first-child{margin:0; padding:0; border-left:none;}
 #header nav ul li li{margin:0; padding:0; border:none; text-align:left; font-style:normal;}
 #header nav ul li li:first-child{margin:0;}
-#header nav ul li a:link, #header nav ul li a:visited, #header nav ul li a:hover{display:block; margin:0; padding:0; color:#999999; background-color:#FFFFFF; text-transform:uppercase;}
-#header nav ul li a:hover, #header nav ul li.active a{color:#56AED4; background-color:#FFFFFF;}
-#header nav ul li ul li a:link, #header nav ul li ul li a:visited{float:none; width:150px; margin:0; padding:7px 10px; color:#999999; background-color:#F9F9F9; border:none; text-transform:none; font-weight:normal;}
+#header nav ul li a:link, #header nav ul li a:visited, #header nav ul li a:hover{display:block; margin:0; padding:0;  text-transform:uppercase;color:#56AED4;}
+#header nav ul li a:hover, #header nav ul li a:link, #header nav ul li.active a{color:#56AED4; background-color:#FFFFFF;}
+#header nav ul li ul li a:link{float:none; width:150px; margin:0; padding:7px 10px; border:none; text-transform:none; font-weight:normal;}
 #header nav ul li ul li a:hover{color:#56AED4; background-color:#F9F9F9; border:none;}
-#header nav ul ul{z-index:9999; position:absolute; left:-999em; height:auto; width:170px; padding:5px 0 0 0; border-bottom:1px solid #D5D5D5;}
-#header nav ul ul a{width:140px;}
+#header nav ul ul{z-index:999; position:absolute; left:-999em; height:auto; width:170px; padding:5px 0 0 0; border-bottom:1px solid #D5D5D5;}
+#header nav ul ul ul{z-index:9999; position:absolute; top:-999em;left:-1999em; height:auto; width:170px; padding:5px 0 0 0; border-bottom:1px solid #D5D5D5;}
+#header nav ul ul a, #header nav ul ul ul a{width:140px;}
 #header nav ul li:hover ul{left:auto;}
-#header nav ul li:hover{position:static;}
+#header nav ul li:hover ul ul {left:-1999em;}
+#header nav ul ul li:hover ul{left:13em;top:0;}
+#header nav ul li:hover, #header nav ul ul li:hover{position:static;}
 
 /* ----------------------------------------------Column Navigation-------------------------------------*/
 

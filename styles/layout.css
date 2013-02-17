@@ -23,6 +23,8 @@ body{margin:0; padding:0; font-size:13px; font-family:Georgia, "Times New Roman"
 html[xmlns] .clear{display:block;}
 * html .clear{height:1%;}
 
+.head {text-align: center; font-size:24px; margin-bottom:30px;}
+
 a{outline:none; text-decoration:none;}
 
 code{font-weight:normal; font-style:normal; font-family:Georgia, "Times New Roman", Times, serif;}
@@ -89,7 +91,7 @@ blockquote:after, q:after{content:' „'; font-size:26px; line-height:0;}
 /*----------------------------------------------Content Area-------------------------------------*/
 
 #container{padding:50px 0; line-height:1.8em;}
-#container h1, #container h2, #container h3, #container h4, #container h5, #container h6{margin-bottom:30px; font-weight:bold;}
+#container h1, #container h2, #container h3, #container h4, #container h5, #container h6{margin-bottom:0px; font-weight:bold;}
 #container section{display:block; margin-bottom:40px;}
 #container .last{margin:0;}
 #container .more{text-align:right;}
