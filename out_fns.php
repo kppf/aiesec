@@ -102,16 +102,12 @@ if($activeclass == 'index') homepagescripts();
 					<li><a href='aiesec-who-we-are.php'>Who We Are</a></li>
 					<li><a href='aiesec-network.php'>Network</a></li>
 					<li><a href='aiesec-history.php'>History</a></li>
-					<li><a href='aiesec-press.php'>Press</a></li>
-					<li><a href='aiesec-publication.php'>Publication</a></li>
-					<li><a href='aiesec-hall-of-fame.php'>Hame Of Fame</a></li>
 				</ul>
 			</li>
             <li><a href="#">AIESEC IIT(BHU)</a>
 				<ul>
 					<li><a href='#'>History</a></li>
 					<li><a href='aiesec-iit-bhu-departments.php'>Departments</a></li>
-					<li><a href='#'>Local Board Of Advisors</a></li>
 				</ul>
 			</li>
           </ul>
