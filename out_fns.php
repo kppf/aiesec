@@ -102,6 +102,7 @@ if($activeclass == 'index') homepagescripts();
 					<li><a href='aiesec-who-we-are.php'>Who We Are</a></li>
 					<li><a href='aiesec-network.php'>Network</a></li>
 					<li><a href='aiesec-history.php'>History</a></li>
+					<li><a href='aiesec-hall-of-fame.php'>Hall Of Fame</a></li>
 				</ul>
 			</li>
             <li><a href="#">AIESEC IIT(BHU)</a>
