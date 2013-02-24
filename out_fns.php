@@ -167,13 +167,20 @@ function show_footer()
         </form>
       </div>
 -->
+	
       <div class="social">
         <h2 class="title">Contact us</h2>
+		<div style='font-size: 18px;'>
+		<a href='mailto:aiesecvaranasi@gmail.com' target='_blank'>aiesecvaranasi@gmail.com</a>.
+	<br/><a href='mailto:ayush.rai@aiesec.net' target='_blank'>ayush.rai@aiesec.net</a><br/><br/>
+	Connect with us!<br/>
+	<a href='http://www.facebook.com/AIESECVaranasi' target='_blank'>Facebook</a><br/>
+	<a href='https://twitter.com/AIESECVaranasi' target='_blank'>Twitter</a>
 <!--        <ul class="clear">
           <li><a href="http://www.fb.com/Aiesec"><img src="images/demo/social/1.gif" alt=""></a> Facebook</li>
           <li><a href="http://plus.google.com/"><img src="images/demo/social/1.gif" alt=""></a> Google+</li>
         </ul>
--->
+-->		</div>
       </div>
     </section>
     <!-- Section Two -->
