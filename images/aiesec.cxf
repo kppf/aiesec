@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="960:450" orientation="landscape" theme="picturepile" shadows="1" captions="1" albumUID="1ccf73796afca41ed2992bd5e8327ac6">
+ <albumTitle>aiesec</albumTitle>
+ <albumDate>February, 2013</albumDate>
+ <background type="image">
+  <src>$Desktop\unused\aiesec\@ Beach.JPG</src>
+ </background>
+ <spacing value="0.000000"/>
+ <node x="0.597663" y="0.643497" w="0.303269" h="0.431316" theta="5.759586" scale="310.547150">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\1 conferences.jpg</src>
+  <uid>7d141d0cc873a62c0000000000000000</uid>
+ </node>
+ <node x="0.116659" y="0.409544" w="0.267536" h="0.429747" theta="0.523599" scale="273.957306">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\22 conference.jpg</src>
+  <uid>13c69e7629fc6e910000000000000000</uid>
+ </node>
+ <node x="0.591314" y="0.045800" w="0.247494" h="0.387190" theta="5.881532" scale="253.433640">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\899a31f6-59f4-4915-b409-74f7555238b5.bmp.jpg</src>
+  <uid>5fbc5385951842000000000000000000</uid>
+ </node>
+ <node x="-0.040475" y="0.051443" w="0.274196" h="0.438714" theta="5.830462" scale="280.776733">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\38096_1472334641799_1036644796_31396137_7960242_n.jpg</src>
+  <uid>010461bae20655ee0000000000000000</uid>
+ </node>
+ <node x="0.376829" y="0.481149" w="0.267104" h="0.457638" theta="0.191127" scale="273.514618">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\aiesec-ruins-738089.JPG</src>
+  <uid>5373fdd870ea7c190000000000000000</uid>
+ </node>
+ <node x="0.389639" y="-0.156878" w="0.226318" h="0.307792" theta="0.261799" scale="231.749451">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\aiesec_group.jpg</src>
+  <uid>954a1b3b6e708b8d0000000000000000</uid>
+ </node>
+</collage>

@@ -5,19 +5,19 @@ function slideshow()
 <div class="wrapper row2">
   <section id="slider" class="flexslider clear">
     <ul class="slides">
-      <li><img src="images/demo/slider/1.gif" alt="">
+      <li><img src="images/slider/1.jpg" alt="">
         <div class="flex-caption">
           <p>Cursuspenatisaccum ut curabitur nulla tellus tor ames a in curabitur pede. Idet mollisi eros dis orci congue elis et curabitur consequam intesque. Curabiturpisametur in ante.</p>
           <footer><a href="#">Read More &raquo;</a></footer>
         </div>
       </li>
-      <li><img src="images/demo/slider/1.gif" alt="">
+      <li><img src="images/slider/2.jpg" alt="">
         <div class="flex-caption">
           <p>Cursuspenatisaccum ut curabitur nulla tellus tor ames a in curabitur pede. Idet mollisi eros dis orci congue elis et curabitur consequam intesque. Curabiturpisametur in ante.</p>
           <footer><a href="#">Read More &raquo;</a></footer>
         </div>
       </li>
-      <li><img src="images/demo/slider/1.gif" alt="">
+      <li><img src="images/slider/3.jpg" alt="">
         <div class="flex-caption">
           <p>Cursuspenatisaccum ut curabitur nulla tellus tor ames a in curabitur pede. Idet mollisi eros dis orci congue elis et curabitur consequam intesque. Curabiturpisametur in ante.</p>
           <footer><a href="#">Read More &raquo;</a></footer>
@@ -40,7 +40,7 @@ $(window).load(function () {
         animation: 'slide',
         controlNav: false,
         pauseOnHover: true,
-        slideshowSpeed: 8000,
+        slideshowSpeed: 3000,
         animationSpeed: 1000,
         start: function (slider) {
             $('body').removeClass('loading');
@@ -173,7 +173,7 @@ function show_footer()
         <h2 class="title">Contact us</h2>
 		<div style='font-size: 18px;'>
 		<a href='mailto:aiesecvaranasi@gmail.com' target='_blank'>aiesecvaranasi@gmail.com</a>.
-	<br/><a href='mailto:ayush.rai@aiesec.net' target='_blank'>ayush.rai@aiesec.net</a><br/><br/>
+	<br/><!--<a href='mailto:ayush.rai@aiesec.net' target='_blank'>ayush.rai@aiesec.net</a>--><br/><br/>
 	Connect with us!<br/>
 	<a href='http://www.facebook.com/AIESECVaranasi' target='_blank'>Facebook</a><br/>
 	<a href='https://twitter.com/AIESECVaranasi' target='_blank'>Twitter</a>

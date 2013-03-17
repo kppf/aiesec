@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="960:450" orientation="landscape" theme="picturepile" shadows="1" captions="1" albumUID="6324582061d06d3576d64140018a75e0">
+ <albumTitle>Recently Updated</albumTitle>
+ <albumDate>November, 2012</albumDate>
+ <background type="image">
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\XP_India_2.jpg</src>
+ </background>
+ <spacing value="0.000000"/>
+ <node x="0.732449" y="0.131810" w="0.329102" h="0.332566" theta="-0.011242" scale="337.000000">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\AIESEC_Chandigarh_Logo.jpg</src>
+  <uid>ddb56608772d6c980000000000000000</uid>
+ </node>
+ <node x="0.322870" y="0.109958" w="0.329102" h="0.232852" theta="0.017546" scale="337.000000">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\n1719601726_1142_4042995.jpg</src>
+  <uid>40ef39d4b285be920000000000000000</uid>
+ </node>
+ <node x="-0.034835" y="-0.212383" w="0.329102" h="0.702083" theta="-0.060454" scale="337.000000">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\7027519782c60fcdef3bc8a92d0d0ce1.jpg</src>
+  <uid>a3317c3a6c74af810000000000000000</uid>
+ </node>
+ <node x="0.607053" y="-0.208466" w="0.238107" h="0.507962" theta="0.261799" scale="243.821945">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\AC.jpg</src>
+  <uid>99debb093cee41570000000000000000</uid>
+ </node>
+ <node x="-0.013204" y="0.301287" w="0.281641" h="0.496620" theta="-0.090364" scale="288.399994">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\AIESEC-in-Manipal-University-Hosts-South-Regional-Youth-Leadership-Conference.jpg</src>
+  <uid>8b7c7d35c4d338290000000000000000</uid>
+ </node>
+ <node x="0.425112" y="0.387076" w="0.372036" h="0.293660" theta="6.283185" scale="380.964386">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\60sizovjr8gl8mdtz1k4.jpg</src>
+  <uid>1b3fce9b688411a20000000000000000</uid>
+ </node>
+ <node x="0.773872" y="0.694615" w="0.180324" h="0.384690" theta="5.792128" scale="184.651291">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\photo.jpg</src>
+  <uid>4501b8fe16cb4fb20000000000000000</uid>
+ </node>
+ <node x="0.324093" y="-0.159367" w="0.232422" h="0.241299" theta="-0.038976" scale="238.000000">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\576680_368317533230351_403416826_n.jpg</src>
+  <uid>af47f02f07f003bf0000000000000000</uid>
+ </node>
+ <node x="0.191699" y="0.548753" w="0.237252" h="0.379603" theta="-0.049138" scale="242.946091">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\136_copy.jpg</src>
+  <uid>3622564f100a28810000000000000000</uid>
+ </node>
+ <node x="0.108788" y="-0.012093" w="0.218059" h="0.098092" theta="6.227329" scale="223.291946">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\cropped-coveragain2.jpg</src>
+  <uid>53f0ce84e4f283500000000000000000</uid>
+ </node>
+ <node x="-0.014916" y="0.609145" w="0.209583" h="0.164789" theta="-0.037636" scale="214.613174">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\images.jpg</src>
+  <uid>b4335ebc54d634260000000000000000</uid>
+ </node>
+ <node x="0.897644" y="-0.199716" w="0.198026" h="0.237631" theta="0.523599" scale="202.778122">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC IN INDIA\mqdefault.jpg</src>
+  <uid>21e594f8bf9e169b0000000000000000</uid>
+ </node>
+</collage>

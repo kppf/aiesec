@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="960:450" orientation="landscape" theme="picturepile" shadows="1" captions="1" albumUID="4007f2d54c73d136ac2395015c84e5e8">
+ <albumTitle>Collages</albumTitle>
+ <albumDate>March, 2013</albumDate>
+ <background type="image">
+  <src>$Desktop\unused\aiesec\joinus.jpg</src>
+ </background>
+ <spacing value="0.000000"/>
+ <node x="0.164063" y="0.275000" w="0.323768" h="0.534606" theta="6.744077" scale="331.538513">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\4536540239_12a7f7eb70.jpg</src>
+  <uid>9c227a226f257fc50000000000000000</uid>
+ </node>
+ <node x="0.408203" y="0.482916" w="0.329102" h="0.443421" theta="-0.038210" scale="337.000000">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\@ XP.JPG</src>
+  <uid>e5e182ecf6a567ed0000000000000000</uid>
+ </node>
+ <node x="0.839943" y="-0.105974" w="0.309969" h="0.495639" theta="0.603637" scale="317.407990">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\Hierchy.jpg</src>
+  <uid>de51f671929854fd0000000000000000</uid>
+ </node>
+ <node x="0.044922" y="0.556250" w="0.295336" h="0.140580" theta="6.511732" scale="302.423615">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\slide31.jpg</src>
+  <uid>d15640923f19a7190000000000000000</uid>
+ </node>
+ <node x="0.697266" y="0.668750" w="0.259637" h="0.123587" theta="6.021386" scale="265.868744">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\slide1.jpg</src>
+  <uid>ad0eb7f850bc79bd0000000000000000</uid>
+ </node>
+ <node x="-0.020508" y="0.012500" w="0.234847" h="0.444566" theta="6.021386" scale="240.483673">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\AIESEC-XP.jpg</src>
+  <uid>44e0cdca71f32a920000000000000000</uid>
+ </node>
+ <node x="0.485917" y="-0.218598" w="0.296858" h="0.473118" theta="6.519350" scale="303.982971">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\1869064_orig.jpg</src>
+  <uid>61c37ca6fd2570340000000000000000</uid>
+ </node>
+ <node x="0.160046" y="0.127429" w="0.262887" h="0.228551" theta="5.847936" scale="269.195923">
+  <theme>noborder</theme>
+  <src>$Desktop\unused\aiesec\slide-image-3.jpg</src>
+  <uid>c618975837bb27aa0000000000000000</uid>
+ </node>
+</collage>
